@@ -6,8 +6,8 @@ A blog application with comments. Writing comments are possible without login. T
 
 
 ## Installation process:
-1. $ clone the project: https://github.com/DoriDoro/blogApplication.git
-2. $ cd blogApplication
+1. $ clone the project: https://github.com/DoriDoro/blog-comments-app.git
+2. $ cd blog-comments-app
 3. $ python -m venv venv
 4. $ . venv/bin/activate
 5. $ pip install -r requirements.txt
