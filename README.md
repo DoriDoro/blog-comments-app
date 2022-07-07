@@ -17,5 +17,5 @@ A blog application with comments. Writing comments are possible without login. T
 
 
 ## Heroku website URL:
-
+https://blog-comment-application.herokuapp.com/
 
