@@ -1,0 +1,6 @@
+asgiref
+Django==4.0.4
+django-heroku
+gunicorn
+psycopg2
+whitenoise
